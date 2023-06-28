@@ -1,0 +1,13 @@
+Total de carros registrados: 11
+laca2; fiat; uno; 2010; 50000; carro; Obs: 
+; 
+
+placa2; fiat; uno; 2010; 40000; carro; Obs: 
+; Obs: s
+; Obs: asdfghjklqwertyuioplk; Obs: j
+; Obs: 
+; Obs: asddfg
+; 
+
+placa2; fiat; uno; 2010; 40000; carro; Obs: nao
+; 
